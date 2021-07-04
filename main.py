@@ -8,6 +8,7 @@ import os
 
 train_cmd = 'python ./part1.py  '
 eval_cmd = 'python ./part2.py '
+import numpy as np
 
 if __name__ == '__main__':
 
